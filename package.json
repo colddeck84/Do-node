@@ -1,0 +1,15 @@
+{
+  "name": "node-do",
+  "version": "1.0.0",
+  "description": "First application",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "Frederik walle",
+  "license": "Walle",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
